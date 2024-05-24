@@ -1,0 +1,45 @@
+body, html {
+  height: 100%;
+  background-color: #115852;
+  color: white;
+  font-family: Montserrat, sans-serif;
+  font-weight: lighter;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+.header {
+
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+.event {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  width: 100%;
+  padding: 20px;
+}
+
+.divider {
+  width: 2px; /* Thickness of the divider */
+  height: 3cm; /* Height of the divider */
+  background-color: whitesmoke; /* Color of the divider */
+  margin: 20px 0; /* Space around the divider */
+}
+
+.event img {
+  width: 500px;
+}
+
+.event h2 {
+  margin-bottom: -15px;
+}
