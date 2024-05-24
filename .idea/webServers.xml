@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="cbf33635-fd4c-44f2-9c98-b59f3f43d31d" name="zebravanfomo">
+        <fileTransfer accessType="SFTP" host="ssh.strato.de" port="22" sshConfigId="7b58e599-0dab-48fb-aec6-c2026986578b" sshConfig="sftp_saylor@luksosaylor.com@ssh.strato.de:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
