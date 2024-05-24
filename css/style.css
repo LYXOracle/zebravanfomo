@@ -43,3 +43,8 @@ body, html {
 .event h2 {
   margin-bottom: -15px;
 }
+
+.footer {
+  position: absolute;
+  bottom: 0;
+}
